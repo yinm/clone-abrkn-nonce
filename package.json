@@ -1,0 +1,24 @@
+{
+  "name": "clone-abrkn-nonce",
+  "version": "1.0.0",
+  "description": "Clone [abrkn/nonce: returns unique and ever increasing timestamps](https://github.com/abrkn/nonce) for study",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yinm/clone-abrkn-nonce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinm/clone-abrkn-nonce/issues"
+  },
+  "homepage": "https://github.com/yinm/clone-abrkn-nonce#readme",
+  "devDependencies": {
+    "mocha": "2.5.3",
+    "expect.js": "0.3.1"
+  }
+}

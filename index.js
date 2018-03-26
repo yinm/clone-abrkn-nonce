@@ -16,6 +16,6 @@ module.exports = (length) => {
     }
 
     const s = (now + repeat).toString()
-    return +s.substr(s.length - length)
+    return Number(s.substr(s.length - length))
   }
 }

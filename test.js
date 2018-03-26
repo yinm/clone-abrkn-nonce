@@ -2,8 +2,8 @@ const
   Nonce = require('./index'),
   expect = require('expect.js')
 
-describe('nonce', function() {
-  it('doesnt duplicate', function() {
+describe('nonce', () => {
+  it('doesnt duplicate', () => {
     const nonce = Nonce()
     let last = null
 

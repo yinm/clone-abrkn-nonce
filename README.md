@@ -1,1 +1,1 @@
-# clone-abrkn-nonce
+Clone [abrkn/nonce: returns unique and ever increasing timestamps](https://github.com/abrkn/nonce) for study
